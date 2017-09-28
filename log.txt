@@ -1,0 +1,66 @@
+commit 5ed1b742457f4a068b79c1975b9d32b5bb20b060
+Author: Han Liang Lim <hlim@mines.edu>
+Date:   Thu Sep 28 14:50:49 2017 -0600
+
+    Resolved merge conflict
+
+commit 553a02d1695ee347d5517e67af427ed192349fd1
+Merge: c7ef9dc 9259ecd
+Author: Han Liang Lim <hlim@mines.edu>
+Date:   Thu Sep 28 14:48:25 2017 -0600
+
+    Merge branch 'master' of https://github.com/krampcg/C11_DrawPlay
+
+commit c7ef9dc237d6e0de483f27af9803bfc3bc31445e
+Author: Han Liang Lim <hlim@mines.edu>
+Date:   Thu Sep 28 14:48:08 2017 -0600
+
+    Changed eyes to black, mouth to yellow, and oval to red
+
+commit 9259ecd4b5066380b38a05bd479b4282d50b1a80
+Author: Clayton Kramp <ckramp@mines.edu>
+Date:   Thu Sep 28 14:46:46 2017 -0600
+
+    Changed eye width from 10 to 12
+
+commit ae9c046659d89ade4469eb5eb1dec5d89b5807d6
+Author: Clayton Kramp <ckramp@mines.edu>
+Date:   Thu Sep 28 14:39:23 2017 -0600
+
+    Changed cat face to pink, awaiting expected merge conflict so we can learn how to work with them
+
+commit 8c1324db5a33f287c85bad0e1f3cef1a7f417d20
+Author: Clayton Kramp <ckramp@mines.edu>
+Date:   Thu Sep 28 14:36:26 2017 -0600
+
+    Changed cat face to red, awaiting expected merge conflict so we can learn how to work with them
+
+commit 1072a9586f4fd508c1df65192a7194a81e45cb66
+Author: Han Liang Lim <hlim@mines.edu>
+Date:   Thu Sep 28 14:33:00 2017 -0600
+
+    Changed color
+
+commit 79eb9be04e74a1d308b22c0c3dfaf881193ab517
+Author: Clayton Kramp <ckramp@mines.edu>
+Date:   Thu Sep 28 14:28:47 2017 -0600
+
+    removed such test file
+
+commit 4e54405cb4cc65e0b69e330e76d39b80de13e316
+Author: Clayton Kramp <ckramp@mines.edu>
+Date:   Thu Sep 28 14:28:06 2017 -0600
+
+    adding a test file
+
+commit b5a01915d6464ef63df3dcf5cbef28bf854bb787
+Author: Clayton Kramp <ckramp@mines.edu>
+Date:   Thu Sep 28 14:25:33 2017 -0600
+
+    First Commit
+
+commit f44d629749ac400c3bdc2bc1930bf269dc343854
+Author: krampcg <31745542+krampcg@users.noreply.github.com>
+Date:   Thu Sep 28 14:15:51 2017 -0600
+
+    Initial commit
